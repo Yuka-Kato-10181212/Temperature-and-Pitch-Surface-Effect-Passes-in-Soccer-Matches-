@@ -1,4 +1,4 @@
-# Temperature-and-Pitch-Surface-Effect-Passes-in-Soccer-Matches-
+# Temperature-and-Pitch-Surface-Effect-Passes-in-Soccer-Matches
 Using public football data from StatsBomb, analyze and predict the result of games from the temperature and soccer pitch surface types.
 
 This project is intended to figure out the effects of temperature and pitch surface type on passes in soccer.
